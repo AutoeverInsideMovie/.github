@@ -14,7 +14,7 @@
 | **송창용** | 채상윤 | 김대환 | 양지선 | 김소희 | 이종진 |
 |:------:|:------:|:------:|:------:|:------:|:------:|
 | <img src="https://avatars.githubusercontent.com/u/84127378?v=4" alt="송창용" width="150"> | <img src="https://avatars.githubusercontent.com/u/28301831?v=4" alt="채상윤" width="150"> | <img src="https://avatars.githubusercontent.com/u/154658933?v=4" alt="김대환" width="150"> | <img src="https://avatars.githubusercontent.com/u/112966788?v=4" alt="양지선" width="150"> | <img src="https://avatars.githubusercontent.com/u/83942772?v=4" alt="김소희" width="150"> | <img src="https://avatars.githubusercontent.com/u/34650789?v=4" alt="이종진" width="150"> |
-| BackEnd<br/>MSA/AI<br/>CI/CD | FrontEnd<br/>BackEnd | BackEnd<br/>MSA/AI | BackEnd | BackEnd | FrontEnd |
+| BackEnd<br/>AI<br/>CI/CD | FrontEnd<br/>BackEnd | BackEnd<br/>AI | BackEnd | BackEnd | FrontEnd |
 | [GitHub](https://github.com/et007693) | [GitHub](https://github.com/Sangyoon98) | [GitHub](https://github.com/Gumraze-git) | [GitHub](https://github.com/yangjiseonn) | [GitHub](https://github.com/ksoheee) | [GitHub](https://github.com/Lee-Jong-Jin) |
 
 <br/>
@@ -40,9 +40,9 @@
 # 4. Tasks & Responsibilities (작업 및 역할 분담)
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| 송창용    |  <img src="https://avatars.githubusercontent.com/u/84127378?v=4" alt="송창용" width="100"> | <ul><li>팀 리딩 및 커뮤니케이션</li><li>CI / CD</li><li>백엔드 개발</li><li>MSA/AI 개발</li></ul>     |
+| 송창용    |  <img src="https://avatars.githubusercontent.com/u/84127378?v=4" alt="송창용" width="100"> | <ul><li>팀 리딩 및 커뮤니케이션</li><li>CI / CD</li><li>백엔드 개발</li><li>AI 개발</li></ul>     |
 | 채상윤   |  <img src="https://avatars.githubusercontent.com/u/28301831?v=4" alt="채상윤" width="100">| <ul><li>사용자 페이지 프론트엔드 개발</li><li>백엔드 개발</li></ul> |
-| 김대환   |  <img src="https://avatars.githubusercontent.com/u/154658933?v=4" alt="김대환" width="100">    |<ul><li>백엔드 개발</li><li>MSA/AI 개발</li></ul>  |
+| 김대환   |  <img src="https://avatars.githubusercontent.com/u/154658933?v=4" alt="김대환" width="100">    |<ul><li>백엔드 개발</li><li>AI 개발</li></ul>  |
 | 양지선    |  <img src="https://avatars.githubusercontent.com/u/112966788?v=4" alt="양지선" width="100">    | <ul><li>백엔드 개발</li></ul>    |
 | 김소희    |  <img src="https://avatars.githubusercontent.com/u/83942772?v=4" alt="김소희" width="100">    | <ul><li>백엔드 개발</li></ul>    |
 | 이종진    |  <img src="https://avatars.githubusercontent.com/u/34650789?v=4" alt="이종진" width="100">    | <ul><li>관리자 페이지 프론트엔드 개발</li></ul>    |
@@ -55,7 +55,7 @@
 |-----------------|-----------------|
 | FrontEnd   |<img src="https://skills.syvixor.com/api/icons?i=typescript,react,tailwindcss,mui"/>| 
 | BackEnd    |<img src="https://skills.syvixor.com/api/icons?i=java,springboot,jwt,mysql"/>|
-| MSA / AI   |<img src="https://skills.syvixor.com/api/icons?i=python,fastapi"/>|
+| AI   |<img src="https://skills.syvixor.com/api/icons?i=python,fastapi"/>|
 | Infra      |<img src="https://skills.syvixor.com/api/icons?i=jenkins,docker,nginx,aws"/>|
 | Cooperation     |<img src="https://skills.syvixor.com/api/icons?i=notion,figma,github"/>|
 
